@@ -1,0 +1,16 @@
+{
+  "name": "personal-eslint-config",
+  "version": "0.0.0",
+  "description": "personal eslint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "javascript",
+    "js"
+  ],
+  "author": "as3mbus",
+  "license": "MIT"
+}
