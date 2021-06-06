@@ -1,5 +1,5 @@
 {
-  "name": "personal-eslint-config",
+  "name": "eslint-config-as3mbus",
   "version": "0.0.0",
   "description": "personal eslint configuration",
   "main": "index.js",
@@ -12,5 +12,10 @@
     "js"
   ],
   "author": "as3mbus",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.14.4",
+    "@babel/eslint-plugin": "^7.13.16",
+    "eslint": "^7.28.0"
+  }
 }
