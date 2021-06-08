@@ -200,15 +200,15 @@ module.exports = {
         'indent': [
             'error', 4, {
                 'CallExpression': {
-                    'arguments': 2,
+                    'arguments': 1,
                 },
                 'FunctionDeclaration': {
                     'body': 1,
-                    'parameters': 2,
+                    'parameters': 1,
                 },
                 'FunctionExpression': {
                     'body': 1,
-                    'parameters': 2,
+                    'parameters': 1,
                 },
                 'MemberExpression': 1,
                 'ObjectExpression': 1,
