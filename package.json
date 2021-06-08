@@ -1,7 +1,8 @@
 {
   "name": "eslint-config-as3mbus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "personal eslint configuration",
+  "repository": "https://github.com/as3mbus/eslint-config-as3mbus.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
