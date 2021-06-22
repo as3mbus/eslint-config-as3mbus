@@ -1,6 +1,6 @@
 # eslint-config-as3mbus
 
-![version](https://img.shields.io/badge/Version-0.1.0-brightgreen)
+![version](https://img.shields.io/badge/Version-0.2.0-brightgreen)
 [![npm version](https://badge.fury.io/js/eslint-config-as3mbus.svg)](https://badge.fury.io/js/eslint-config-as3mbus)
 
 Personal Eslint Configuration for Phaser 3 with Babel Transpiler

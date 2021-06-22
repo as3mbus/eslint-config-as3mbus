@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-as3mbus",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "personal eslint configuration",
   "repository": "https://github.com/as3mbus/eslint-config-as3mbus.git",
   "main": "index.js",
@@ -14,7 +14,7 @@
   ],
   "author": "as3mbus",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "@babel/eslint-parser": "^7.14.4",
     "@babel/eslint-plugin": "^7.13.16",
     "eslint": "^7.28.0"
